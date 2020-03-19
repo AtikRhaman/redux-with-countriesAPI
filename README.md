@@ -1,8 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Demo URL
-https://brave-goldwasser-6f46ba.netlify.com
-
 ## Available Scripts
 
 In the project directory, you can run:
